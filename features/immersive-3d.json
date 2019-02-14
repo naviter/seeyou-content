@@ -4,5 +4,5 @@
   "title": "Immersive 3D",
   "sub_title": "Review your flight in full resolution view",
   "body": "\\# This is Markdown\n\n\\#### You can edit me!\n\n\\[Markdown](http://daringfireball.net/projects/markdown/) lets you write content in a really natural way.\n\n\\* You can have lists, like this one\n\n  \\* Make things \\*\\*bold\\*\\* or \\*italic*\n\n\\* Embed snippets of \\`code\\`\n\n\\* Create \\[links](/)\n\n\\* ...\n\n<small>Sample content borrowed with thanks from \\[elm-markdown](http://elm-lang.org/examples/markdown) ❤️</small>\n\nYou can even include custom React components if you declare them in the \"overrides\" option",
-  "image": "/cms/assets/uploads/delore.png"
+  "image": "/cms/assets/delore.png"
 }

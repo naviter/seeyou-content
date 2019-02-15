@@ -1,0 +1,36 @@
+{
+  "layout": "homepage",
+  "language": "en",
+  "title": "en",
+  "slideshow": [
+    {}
+  ],
+  "sections": [
+    {
+      "gallery": [
+        {}
+      ]
+    }
+  ],
+  "footer": {
+    "copy": "© 2000 – 2019 Naviter.com",
+    "links": [
+      {
+        "name": "Blog",
+        "link": "https://www.naviter.com/blog"
+      },
+      {
+        "name": "Purchase",
+        "link": "https://www.naviter.com/purchase/"
+      },
+      {
+        "name": "Contact",
+        "link": "https://www.naviter.com/contact-us/"
+      },
+      {
+        "name": "Privacy Policy",
+        "link": "https://www.naviter.com/naviter-privacy-policy/"
+      }
+    ]
+  }
+}

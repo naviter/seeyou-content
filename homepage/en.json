@@ -31,9 +31,9 @@
   ],
   "sections": [
     {
-      "title": "Get started with SeeYou",
-      "body": "Join the other pilots at SeeYou Cloud base.",
-      "image": "/cms/assets/seeyou-climb.png",
+      "title": "Features",
+      "body": "",
+      "image": "",
       "gallery": [
         {
           "alt": "Statistics",
@@ -64,6 +64,11 @@
           "src": "/cms/assets/seeyou-hike-and-fly-maps-features.png"
         }
       ]
+    },
+    {
+      "title": "Get started with SeeYou",
+      "body": "Join the other pilots at SeeYou Cloud base.",
+      "image": "/cms/assets/seeyou-climb.png"
     }
   ],
   "footer": {

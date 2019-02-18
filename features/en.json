@@ -9,6 +9,34 @@
       "sub_title": "Review your flights in full resolution view",
       "keyname": "3dview",
       "image": "/cms/assets/delore.png"
+    },
+    {
+      "text_layout": "top-left",
+      "title": "Statistics",
+      "sub_title": "Flight view and statistics",
+      "image": "/cms/assets/seeyou-statistics-feature.png"
+    },
+    {
+      "text_layout": "top-left",
+      "title": "Task planning",
+      "sub_title": "Task planning and weather",
+      "image": "/cms/assets/seeyou-planning-features.png"
+    },
+    {
+      "text_layout": "top-left",
+      "title": "Flight maps",
+      "sub_title": "Weather, Airspaces, Hike and fly",
+      "image": "/cms/assets/seeyou-flying-maps.png"
+    },
+    {
+      "text_layout": "top-left",
+      "title": "2d Flight view",
+      "image": "/cms/assets/seeyou-2dview-fetatures.png"
+    },
+    {
+      "text_layout": "top-left",
+      "title": "3d filght view",
+      "image": "/cms/assets/seeyou-glide.png"
     }
   ]
 }

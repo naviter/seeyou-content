@@ -17,6 +17,11 @@
       "title": "SeeYou, flight planning and analysis tool build for pilots",
       "subtitle": "Flight view and statistics",
       "image": "/cms/assets/seeyou-2d-flight-view.png"
+    },
+    {
+      "title": "SeeYou, flight planning and analysis tool build for pilots",
+      "subtitle": "Immersive 3d flight view",
+      "image": "/cms/assets/seeyou-3d-flight-view.png"
     }
   ],
   "sections": [

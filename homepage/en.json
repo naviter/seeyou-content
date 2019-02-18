@@ -3,7 +3,11 @@
   "language": "en",
   "title": "en",
   "slideshow": [
-    {}
+    {
+      "title": "Build for pilots",
+      "subtitle": "SeeYou is a flight planning and analysis tool for glider, paraglider and hang glider pilots.",
+      "image": "/cms/assets/seeyou-maps.png"
+    }
   ],
   "sections": [
     {

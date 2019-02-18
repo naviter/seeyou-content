@@ -22,6 +22,11 @@
       "title": "SeeYou, flight planning and analysis tool build for pilots",
       "subtitle": "Immersive 3d flight view",
       "image": "/cms/assets/seeyou-3d-flight-view.png"
+    },
+    {
+      "title": "SeeYou, flight planning and analysis tool build for pilots",
+      "subtitle": "Weather (TopMeteo, SkySight)",
+      "image": "/cms/assets/seeyou-weather.png"
     }
   ],
   "sections": [

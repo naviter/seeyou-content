@@ -31,12 +31,16 @@
   ],
   "sections": [
     {
+      "title": "Get started with SeeYou",
+      "body": "Join the other pilots at SeeYou Cloud base.",
+      "image": "/cms/assets/seeyou-climb.png",
       "gallery": [
         {}
       ]
     }
   ],
   "footer": {
+    "headline": "SeeYou",
     "copy": "© 2000 – 2019 Naviter.com",
     "links": [
       {

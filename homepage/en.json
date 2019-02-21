@@ -91,6 +91,18 @@
         "name": "Privacy Policy",
         "link": "https://www.naviter.com/naviter-privacy-policy/"
       }
+    ],
+    "social_links": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/naviter.seeyou",
+        "icon": "Facebook"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/naviter_seeyou",
+        "icon": "Twitter"
+      }
     ]
   }
 }

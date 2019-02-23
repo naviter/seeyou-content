@@ -31,8 +31,8 @@
   ],
   "sections": [
     {
-      "title": "Features",
-      "body": "",
+      "title": "SeeYou",
+      "body": "SeeYou is a flight planning and analysis tool for glider, paraglider and hang glider pilots.\n",
       "image": "",
       "gallery": [
         {
@@ -72,7 +72,6 @@
     }
   ],
   "footer": {
-    "headline": "SeeYou",
     "copy": "© 2000 – 2019 Naviter.com",
     "links": [
       {
@@ -102,6 +101,11 @@
         "name": "Twitter",
         "link": "https://twitter.com/naviter_seeyou",
         "icon": "Twitter"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/naviter.seeyou/",
+        "icon": "Instagram"
       }
     ]
   }

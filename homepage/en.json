@@ -25,7 +25,7 @@
     },
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Weather (TopMeteo, SkySight)\n\n<AuthBox />",
+      "subtitle": "Weather (TopMeteo, SkySight)\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-weather.png"
     }
   ],

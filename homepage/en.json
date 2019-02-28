@@ -5,27 +5,27 @@
   "slideshow": [
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Stunning maps",
+      "subtitle": "Stunning maps\n\n<AuthBox />",
       "image": "/cms/assets/seeyou-maps.png"
     },
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Redefined task planning",
+      "subtitle": "Redefined task planning\n\n<AuthBox />",
       "image": "/cms/assets/seeyou-task-planning.png"
     },
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Flight view and statistics",
+      "subtitle": "Flight view and statistics\n\n<AuthBox />",
       "image": "/cms/assets/seeyou-2d-flight-view.png"
     },
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Immersive 3d flight view",
+      "subtitle": "Immersive 3d flight view\n\n<AuthBox />",
       "image": "/cms/assets/seeyou-3d-flight-view.png"
     },
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Weather (TopMeteo, SkySight)",
+      "subtitle": "Weather (TopMeteo, SkySight)\n\n<AuthBox />",
       "image": "/cms/assets/seeyou-weather.png"
     }
   ],
@@ -67,7 +67,7 @@
     },
     {
       "title": "Get started with SeeYou",
-      "body": "Join the other pilots at SeeYou Cloud base.",
+      "body": "Join the other pilots at SeeYou Cloud base.\n\n<AuthBox />",
       "image": "/cms/assets/seeyou-climb.png"
     }
   ],

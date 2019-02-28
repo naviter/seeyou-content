@@ -5,22 +5,22 @@
   "slideshow": [
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Stunning maps\n\n<AuthBox />",
+      "subtitle": "Stunning maps\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-maps.png"
     },
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Redefined task planning\n\n<AuthBox />",
+      "subtitle": "Redefined task planning\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-task-planning.png"
     },
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Flight view and statistics\n\n<AuthBox />",
+      "subtitle": "Flight view and statistics\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-2d-flight-view.png"
     },
     {
       "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Immersive 3d flight view\n\n<AuthBox />",
+      "subtitle": "Immersive 3d flight view\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-3d-flight-view.png"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "title": "Get started with SeeYou",
-      "body": "Join the other pilots at SeeYou Cloud base.\n\n<AuthBox />",
+      "body": "Join the other pilots at SeeYou Cloud base.\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-climb.png"
     }
   ],

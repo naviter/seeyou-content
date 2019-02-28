@@ -4,38 +4,33 @@
   "title": "en",
   "list": [
     {
-      "text_layout": "top-left",
-      "title": "Immersive multi flight 3D view",
-      "sub_title": "Review your flights in full resolution view",
-      "keyname": "3dview",
-      "image": "/cms/assets/seeyou-climb.png"
-    },
-    {
-      "text_layout": "top-left",
+      "trial_key": "TRIAL_NO_STATISTICS",
       "title": "Statistics",
-      "sub_title": "Flight view and statistics",
+      "sub_title": "Flight statistic is not available in trial mode.",
       "image": "/cms/assets/seeyou-statistics-feature.png"
     },
     {
-      "text_layout": "top-left",
-      "title": "Task planning",
-      "sub_title": "Task planning and weather",
+      "trial_key": "TRIAL_NO_TASKS_MANAGEMENT",
+      "title": "Task planning and management",
+      "sub_title": "Task collections management is not available in trial mode.",
       "image": "/cms/assets/seeyou-planning-features.png"
     },
     {
-      "text_layout": "top-left",
-      "title": "Flight maps",
-      "sub_title": "Weather, Airspaces, Hike and fly",
-      "image": "/cms/assets/seeyou-flying-maps.png"
+      "trial_key": "TRIAL_NO_WEATHER",
+      "title": "Weather",
+      "sub_title": "Weather is not enabled in trial mode.",
+      "image": "/cms/assets/seeyou-weather-features.png"
     },
     {
-      "text_layout": "top-left",
-      "title": "2d Flight view",
-      "image": "/cms/assets/seeyou-2dview-fetatures.png"
+      "trial_key": "TRIAL_NO_MULTIFLIGHT",
+      "title": "Multi flight view",
+      "sub_title": "Multi flight view is not available in trial mode.",
+      "image": "/cms/assets/seeyou-statistics-feature.png"
     },
     {
-      "text_layout": "top-left",
-      "title": "3d filght view",
+      "trial_key": "TRIAL_NO_3D",
+      "title": "3D filght view",
+      "sub_title": "Flight 3D view is not available in trial mode.",
       "image": "/cms/assets/seeyou-glide.png"
     }
   ]

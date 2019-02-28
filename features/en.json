@@ -6,31 +6,31 @@
     {
       "trial_key": "TRIAL_NO_STATISTICS",
       "title": "Statistics",
-      "sub_title": "Flight statistic is not available in trial mode.",
+      "sub_title": "Flight statistic is not available in trial mode.\n\n<BuyBtn />",
       "image": "/cms/assets/seeyou-statistics-feature.png"
     },
     {
       "trial_key": "TRIAL_NO_TASKS_MANAGEMENT",
       "title": "Task planning and management",
-      "sub_title": "Task collections management is not available in trial mode.",
+      "sub_title": "Task collections management is not available in trial mode.\n\n<BuyBtn />",
       "image": "/cms/assets/seeyou-planning-features.png"
     },
     {
       "trial_key": "TRIAL_NO_WEATHER",
       "title": "Weather",
-      "sub_title": "Weather is not enabled in trial mode.",
+      "sub_title": "Weather is not enabled in trial mode.\n\n<BuyBtn />",
       "image": "/cms/assets/seeyou-weather-features.png"
     },
     {
       "trial_key": "TRIAL_NO_MULTIFLIGHT",
       "title": "Multi flight view",
-      "sub_title": "Multi flight view is not available in trial mode.",
+      "sub_title": "Multi flight view is not available in trial mode.\n\n<BuyBtn />",
       "image": "/cms/assets/seeyou-statistics-feature.png"
     },
     {
       "trial_key": "TRIAL_NO_3D",
       "title": "3D filght view",
-      "sub_title": "Flight 3D view is not available in trial mode.",
+      "sub_title": "Flight 3D view is not available in trial mode.\n\n<BuyBtn />",
       "image": "/cms/assets/seeyou-glide.png"
     }
   ]

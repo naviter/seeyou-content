@@ -5,15 +5,15 @@
   "list": [
     {
       "trial_key": "TRIAL_NO_STATISTICS",
-      "title": "Statistics",
-      "subtitle": "Flight statistic is not available in trial mode.\n\n<BuyBtn />",
+      "title": "Flight Statistics - learn and improve",
+      "subtitle": "Flight statistics is a way to get your flight impressions into numbers. See where you are making mistakes, so you can prevent them in your next flight.\n\nFlight statistics is a feature available to our subscribers:\n\n<BuyBtn />",
       "image": "/cms/assets/seeyou-statistics-feature.png"
     },
     {
       "trial_key": "TRIAL_NO_TASKS_MANAGEMENT",
-      "title": "Task planning and management",
-      "subtitle": "Task collections management is not available in trial mode.\n\n<BuyBtn />",
-      "image": "/cms/assets/seeyou-planning-features.png"
+      "title": "Collections - tasks and waypoints for every purpose",
+      "subtitle": "Collections enable you to create different tasks and waypoints for specific occasions. Want to go fly in Argentina, but don't want to mix the waypoints with your home ones? Add a new collection ;) \n\nCollections are available for our subscribers:\n\n<BuyBtn />",
+      "image": "/cms/assets/collections.png"
     },
     {
       "trial_key": "TRIAL_NO_WEATHER",

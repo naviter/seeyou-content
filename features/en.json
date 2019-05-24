@@ -17,8 +17,8 @@
     },
     {
       "trial_key": "TRIAL_NO_WEATHER",
-      "title": "Weather",
-      "subtitle": "Weather is not enabled in trial mode.\n\n<BuyBtn />",
+      "title": "Weather - plan with the data you need",
+      "subtitle": "Integrate weather forecasts from [TopMeteo ](https://www.topmeteo.eu/)and [Skysight](https://skysight.io) with your SeeYou Cloud and display them while planing a task or flying using the \"My Devices\" feature.\n\nWeather integration is available for our subscribers:\n\n<BuyBtn />",
       "image": "/cms/assets/seeyou-weather-features.png"
     },
     {

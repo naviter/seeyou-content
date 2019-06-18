@@ -4,8 +4,8 @@
   "title": "en",
   "slideshow": [
     {
-      "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Stunning maps\n\n<TrialBtn />",
+      "title": "SeeYou - flight planning and analysis for pilots.",
+      "subtitle": "Stunning high resolution maps developed for glider and paraglider pilots.\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-maps.png"
     },
     {
@@ -30,6 +30,10 @@
     }
   ],
   "sections": [
+    {
+      "title": "SeeYou makes You a better pilot.",
+      "body": "Plan, execute and analyze your flights like a pro."
+    },
     {
       "title": "SeeYou",
       "body": "SeeYou is a flight planning and analysis tool for glider, paraglider and hang glider pilots.\n",

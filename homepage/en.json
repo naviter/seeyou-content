@@ -4,36 +4,25 @@
   "title": "en",
   "slideshow": [
     {
-      "title": "SeeYou - flight planning and analysis for pilots.",
-      "subtitle": "Stunning high resolution maps developed for glider and paraglider pilots.\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-maps.png"
+      "title": "SeeYou - makes You a better pilot",
+      "subtitle": "Immersive 3D flight replay.",
+      "image": "/cms/assets/seeyou-climb.png"
     },
-    {
-      "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Redefined task planning\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-task-planning.png"
-    },
-    {
-      "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Flight view and statistics\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-2d-flight-view.png"
-    },
-    {
-      "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Immersive 3d flight view\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-3d-flight-view.png"
-    },
-    {
-      "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Weather (TopMeteo, SkySight)\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-weather.png"
-    }
+    {}
   ],
   "sections": [
     {
-      "title": "Get started with SeeYou",
-      "body": "Join the other pilots at SeeYou Cloud base.\n\n<TrialBtn />",
+      "title": "SeeYou - makes you a better pilot.",
+      "body": " Plan, execute and analyze your soaring flights. \n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-climb.png"
+    },
+    {
+      "title": "Plan your next flight challange",
+      "body": "Create your next task effortlessly.",
+      "image": "",
+      "gallery": [
+        {}
+      ]
     }
   ],
   "footer": {

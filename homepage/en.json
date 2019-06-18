@@ -31,45 +31,6 @@
   ],
   "sections": [
     {
-      "title": "SeeYou makes You a better pilot.",
-      "body": "Plan, execute and analyze your flights like a pro."
-    },
-    {
-      "title": "SeeYou",
-      "body": "SeeYou is a flight planning and analysis tool for glider, paraglider and hang glider pilots.\n",
-      "image": "",
-      "gallery": [
-        {
-          "alt": "Statistics",
-          "src": "/cms/assets/seeyou-statistics-feature.png"
-        },
-        {
-          "alt": "Planning",
-          "src": "/cms/assets/seeyou-planning-features.png"
-        },
-        {
-          "alt": "Weather",
-          "src": "/cms/assets/seeyou-weather-features.png"
-        },
-        {
-          "alt": "Maps",
-          "src": "/cms/assets/seeyou-flying-maps.png"
-        },
-        {
-          "alt": "3D View",
-          "src": "/cms/assets/seeyou-3d-view-features.png"
-        },
-        {
-          "alt": "2D View",
-          "src": "/cms/assets/seeyou-2dview-fetatures.png"
-        },
-        {
-          "alt": "Hike and fly maps",
-          "src": "/cms/assets/seeyou-hike-and-fly-maps-features.png"
-        }
-      ]
-    },
-    {
       "title": "Get started with SeeYou",
       "body": "Join the other pilots at SeeYou Cloud base.\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-climb.png"

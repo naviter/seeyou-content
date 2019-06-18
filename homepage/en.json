@@ -5,10 +5,19 @@
   "slideshow": [
     {
       "title": "SeeYou - makes You a better pilot",
-      "subtitle": "Immersive 3D flight replay.",
-      "image": "/cms/assets/seeyou-climb.png"
+      "subtitle": "Designed for pilots by pilots, to simplify the process of learning cross country and competition flying skills, that an exceptional pilot needs. \n\n<TrialBtn />",
+      "image": "/cms/assets/omarama2.jpg"
     },
-    {}
+    {
+      "title": "SeeYou - easy flight planning",
+      "subtitle": "Click away on the map to create a perfect task for your next flight, supported by integrated weather forecast from TopMeteo and Skysight. \n\n<TrialBtn />",
+      "image": "/cms/assets/seeyou-weather.png"
+    },
+    {
+      "title": "SeeYou - every map you need",
+      "subtitle": "Depending on where you fly and what you want to analyze you can choose between outdoor, terrain and satellite maps.\n\n<TrialBtn />",
+      "image": "/cms/assets/maps.png"
+    }
   ],
   "sections": [
     {

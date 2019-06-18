@@ -17,6 +17,11 @@
       "title": "SeeYou - every map you need",
       "subtitle": "Depending on where you fly and what you want to analyze you can choose between outdoor, terrain and satellite maps.\n\n<TrialBtn />",
       "image": "/cms/assets/maps.png"
+    },
+    {
+      "title": "SeeYou - stunning 3D views",
+      "subtitle": "Replay your flight in the 3D view mode and wow your friends.",
+      "image": "/cms/assets/seeyou-3d-view.png"
     }
   ],
   "sections": [

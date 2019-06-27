@@ -75,6 +75,11 @@
           "src": "/cms/assets/oudie_wave_skysight.jpg"
         }
       ]
+    },
+    {
+      "title": "Get started with SeeYou",
+      "body": "Join other pilots at SeeYou Cloud base.\n\n<TrialBtn />",
+      "image": "/cms/assets/seeyou-glide-top.png"
     }
   ],
   "footer": {

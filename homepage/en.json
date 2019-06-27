@@ -4,36 +4,82 @@
   "title": "en",
   "slideshow": [
     {
-      "title": "SeeYou - flight planning and analysis for pilots.",
-      "subtitle": "Stunning high resolution maps developed for glider and paraglider pilots.\n\n<TrialBtn />",
+      "title": "SeeYou - makes you a better pilot",
+      "subtitle": "Plan, execute and analyze your soaring flights.\n\n<TrialBtn />",
+      "image": "/cms/assets/seeyou-climb.png"
+    },
+    {
+      "title": "SeeYou - maps that a soaring pilot needs",
+      "subtitle": "Choose between terrain, outdoor or satellite map. Airspace, airports, mountain peeks and passes are included. \n\n<TrialBtn />",
       "image": "/cms/assets/maps.png"
     },
     {
-      "title": "SeeYou - flight planning and analysis pilots",
-      "subtitle": "Task planning redefined \n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-task-planning.png"
-    },
-    {
-      "title": "SeeYou - flight planning and analysis tool for pilots",
-      "subtitle": "Flight view and statistics\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-2d-flight-view.png"
-    },
-    {
-      "title": "SeeYou - flight planning and analysis tool for pilots",
-      "subtitle": "Immersive 3d flight view\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-3d-flight-view.png"
-    },
-    {
-      "title": "SeeYou, flight planning and analysis tool build for pilots",
-      "subtitle": "Weather (TopMeteo, SkySight)\n\n<TrialBtn />",
+      "title": "SeeYou - plan your flights",
+      "subtitle": "Our redesigned task planner makes it easy to set tasks based on weather forecasts from TopMeteo or Skysight. \n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-weather.png"
+    },
+    {
+      "title": "SeeYou - analyze your flights",
+      "subtitle": "Improve your flying based on facts that refine your intuition.\n\n<TrialBtn />",
+      "image": "/cms/assets/seeyou-3d-flight-view.png"
     }
   ],
   "sections": [
     {
+      "title": "SeeYou - Flight Analysis",
+      "body": "SeeYou enables you to analyze and learn from your soaring flights made by soaring pilots for soaring pilots. \n\n<TrialBtn />",
+      "image": "",
+      "gallery": [
+        {
+          "alt": "Advanced Flight Statistics",
+          "src": "/cms/assets/seeyou_single_flight_analysis.png"
+        },
+        {
+          "alt": "Compare multiple flights",
+          "src": "/cms/assets/seeyou-statistics-feature.png"
+        },
+        {
+          "alt": "Compare competition flights",
+          "src": "/cms/assets/seeyou-2dview-fetatures.png"
+        }
+      ]
+    },
+    {
+      "title": "SeeYou - Flight Planning",
+      "body": "Plan your next flight challenge and push your self out of your comfort zone safely",
+      "gallery": [
+        {
+          "alt": "Plan your flights based on weather forecasts from Skysight and TopMeteo",
+          "src": "/cms/assets/seeyou_planner_weather_forecast.png"
+        },
+        {
+          "alt": "Organize your tasks and waypoints into collections",
+          "src": "/cms/assets/planner_fai_assistant.png"
+        }
+      ]
+    },
+    {
+      "title": "SeeYou - My Devices",
+      "body": "Connect and manage your device with SeeYou Cloud.",
+      "gallery": [
+        {
+          "alt": "Connect your Naviter devices with SeeYou",
+          "src": "/cms/assets/seeyou_mydevices.png"
+        },
+        {
+          "alt": "Seamlessly transfer high resolution maps ",
+          "src": "/cms/assets/oudie_maps_new_vs_old_21.jpg"
+        },
+        {
+          "alt": "Transfer weather forecast to your device ",
+          "src": "/cms/assets/oudie_wave_skysight.jpg"
+        }
+      ]
+    },
+    {
       "title": "Get started with SeeYou",
-      "body": "Join the other pilots at SeeYou Cloud base.\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-climb.png"
+      "body": "Join other pilots at SeeYou Cloud base.\n\n<TrialBtn />",
+      "image": "/cms/assets/seeyou-glide-top.png"
     }
   ],
   "footer": {

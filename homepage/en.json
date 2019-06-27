@@ -28,7 +28,21 @@
     {
       "title": "SeeYou - Flight Analysis",
       "body": "SeeYou enables you to analyze and learn from your soaring flights made by soaring pilots for soaring pilots. \n\n<TrialBtn />",
-      "image": ""
+      "image": "",
+      "gallery": [
+        {
+          "alt": "Advanced Flight Statistics",
+          "src": "/cms/assets/seeyou_single_flight_analysis.png"
+        },
+        {
+          "alt": "Compare multiple flights",
+          "src": "/cms/assets/seeyou-statistics-feature.png"
+        },
+        {
+          "alt": "Compare competition flights",
+          "src": "/cms/assets/seeyou-2dview-fetatures.png"
+        }
+      ]
     }
   ],
   "footer": {

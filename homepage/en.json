@@ -43,6 +43,20 @@
           "src": "/cms/assets/seeyou-2dview-fetatures.png"
         }
       ]
+    },
+    {
+      "title": "SeeYou - Flight Planning",
+      "body": "Plan your next flight challenge and push your self out of your comfort zone safely",
+      "gallery": [
+        {
+          "alt": "Plan your flights based on weather forecasts from Skysight and TopMeteo",
+          "src": "/cms/assets/seeyou_planner_weather_forecast.png"
+        },
+        {
+          "alt": "Organize your tasks and waypoints into collections",
+          "src": "/cms/assets/planner_fai_assistant.png"
+        }
+      ]
     }
   ],
   "footer": {

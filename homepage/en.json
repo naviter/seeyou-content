@@ -20,15 +20,15 @@
     },
     {
       "title": "SeeYou - analyze your flights",
-      "subtitle": "Improve your flying based on facts that refine your intuition\n\n<TrialBtn />",
+      "subtitle": "Improve your flying based on facts that refine your intuition.\n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-3d-flight-view.png"
     }
   ],
   "sections": [
     {
-      "title": "Get started with SeeYou",
-      "body": "Join the other pilots at SeeYou Cloud base.\n\n<TrialBtn />",
-      "image": "/cms/assets/seeyou-climb.png"
+      "title": "SeeYou - Flight Analysis",
+      "body": "SeeYou enables you to analyze and learn from your soaring flights made by soaring pilots for soaring pilots. \n\n<TrialBtn />",
+      "image": ""
     }
   ],
   "footer": {

@@ -57,6 +57,24 @@
           "src": "/cms/assets/planner_fai_assistant.png"
         }
       ]
+    },
+    {
+      "title": "SeeYou - My Devices",
+      "body": "Connect and manage your device with SeeYou Cloud.",
+      "gallery": [
+        {
+          "alt": "Connect your Naviter devices with SeeYou",
+          "src": "/cms/assets/seeyou_mydevices.png"
+        },
+        {
+          "alt": "Seamlessly transfer high resolution maps ",
+          "src": "/cms/assets/oudie_maps_new_vs_old_21.jpg"
+        },
+        {
+          "alt": "Transfer weather forecast to your device ",
+          "src": "/cms/assets/oudie_wave_skysight.jpg"
+        }
+      ]
     }
   ],
   "footer": {

@@ -15,7 +15,7 @@
     },
     {
       "title": "SeeYou - plan your flights",
-      "subtitle": "Our redesigned task planner makes it easy to set tasks based on weather forecasts from TopMeteo or Skysight. \n\n<TrialBtn />",
+      "subtitle": "Our task planner makes it easy to set tasks based on weather forecasts from TopMeteo or Skysight. \n\n<TrialBtn />",
       "image": "/cms/assets/seeyou-weather.png"
     },
     {
@@ -54,7 +54,11 @@
         },
         {
           "alt": "Organize your tasks and waypoints into collections",
-          "src": "/cms/assets/planner_fai_assistant.png"
+          "src": "/cms/assets/planner_collections.png"
+        },
+        {
+          "alt": "Plan with any map you need.",
+          "src": "/cms/assets/seeyou_planner_maps.png"
         }
       ]
     },
@@ -68,11 +72,11 @@
         },
         {
           "alt": "Seamlessly transfer high resolution maps ",
-          "src": "/cms/assets/oudie_maps_new_vs_old_21.jpg"
+          "src": "/cms/assets/seeyou_mydevices_maps.png"
         },
         {
           "alt": "Transfer weather forecast to your device ",
-          "src": "/cms/assets/oudie_wave_skysight.jpg"
+          "src": "/cms/assets/seeyou_mydevices_weather.png"
         }
       ]
     },

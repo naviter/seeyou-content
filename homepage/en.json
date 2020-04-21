@@ -5,22 +5,22 @@
   "slideshow": [
     {
       "title": "SeeYou - makes you a better pilot",
-      "subtitle": "Plan, execute and analyze your soaring flights.\n\n<TrialBtn />",
+      "subtitle": "Plan, execute and analyze your soaring flights.\n\n<TrialBtn /> <LoginBtn />",
       "image": "/cms/assets/seeyou-climb.png"
     },
     {
       "title": "SeeYou - maps that a soaring pilot needs",
-      "subtitle": "Choose between terrain, outdoor or satellite map. Airspace, airports, mountain peeks and passes are included. \n\n<TrialBtn />",
+      "subtitle": "Choose between terrain, outdoor or satellite map. Airspace, airports, mountain peeks and passes are included. \n\n<TrialBtn /> <LoginBtn />",
       "image": "/cms/assets/maps.png"
     },
     {
       "title": "SeeYou - plan your flights",
-      "subtitle": "Our task planner makes it easy to set tasks based on weather forecasts from TopMeteo or Skysight. \n\n<TrialBtn />",
+      "subtitle": "Our task planner makes it easy to set tasks based on weather forecasts from TopMeteo or Skysight. \n\n<TrialBtn /> <LoginBtn />",
       "image": "/cms/assets/seeyou-weather.png"
     },
     {
       "title": "SeeYou - analyze your flights",
-      "subtitle": "Improve your flying based on facts that refine your intuition.\n\n<TrialBtn />",
+      "subtitle": "Improve your flying based on facts that refine your intuition.\n\n<TrialBtn /> <LoginBtn />",
       "image": "/cms/assets/seeyou-3d-flight-view.png"
     }
   ],

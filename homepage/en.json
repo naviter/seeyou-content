@@ -26,6 +26,50 @@
   ],
   "sections": [
     {
+      "title": "SeeYou - XC Flight Planning",
+      "body": "Plan your next flight challenge and push your self out of your comfort zone safely.",
+      "gallery": [
+        {
+          "alt": "Plan your flights based on weather forecasts from Skysight and TopMeteo",
+          "src": "/cms/assets/seeyou_planner_weather_forecast.png"
+        },
+        {
+          "alt": "Organize your tasks and waypoints into collections",
+          "src": "/cms/assets/planner_collections.png"
+        },
+        {
+          "alt": "Plan with any map you need.",
+          "src": "/cms/assets/seeyou_planner_maps.png"
+        }
+      ]
+    },
+    {
+      "title": "SeeYou - Navigator",
+      "body": "Go flying, record your flight and navigate to your target.",
+      "gallery": [
+        {
+          "alt": "Your first copilot",
+          "src": "/cms/assets/seeyou_navigator_copilot.png"
+        },
+        {
+          "alt": "Never worry about airspace again.",
+          "src": "/cms/assets/seeyou_navigator_airspace.png"
+        },
+        {
+          "alt": "Arrange and style the Navboxes",
+          "src": "/cms/assets/seeyou_navigator_navboxes.png"
+        },
+        {
+          "alt": "Thermal Assistant",
+          "src": "/cms/assets/seeyou_navigator_thermal_assstant.png"
+        },
+        {
+          "alt": "Maps and layers you need while flying",
+          "src": "/cms/assets/seeyou_navigator_layers.png"
+        }
+      ]
+    },
+    {
       "title": "SeeYou - Flight Analysis",
       "body": "SeeYou enables you to analyze and learn from your soaring flights made by soaring pilots for soaring pilots. \n\n<TrialBtn />",
       "image": "",
@@ -41,24 +85,6 @@
         {
           "alt": "Compare competition flights",
           "src": "/cms/assets/seeyou-2dview-fetatures.png"
-        }
-      ]
-    },
-    {
-      "title": "SeeYou - Flight Planning",
-      "body": "Plan your next flight challenge and push your self out of your comfort zone safely",
-      "gallery": [
-        {
-          "alt": "Plan your flights based on weather forecasts from Skysight and TopMeteo",
-          "src": "/cms/assets/seeyou_planner_weather_forecast.png"
-        },
-        {
-          "alt": "Organize your tasks and waypoints into collections",
-          "src": "/cms/assets/planner_collections.png"
-        },
-        {
-          "alt": "Plan with any map you need.",
-          "src": "/cms/assets/seeyou_planner_maps.png"
         }
       ]
     },

@@ -4,22 +4,22 @@
   "title": "en",
   "slideshow": [
     {
-      "title": "SeeYou - makes you a better pilot",
-      "subtitle": "Plan your flights using our XC Planner. Execute them with Navigator and analyze them with the best flight analytics.",
+      "title": "SeeYou - Makes you a better pilot",
+      "subtitle": "Plan your flights using our XC Planner. Execute them with Navigator and analyze them with our flight analytics software, all in one package - SeeYou.",
       "image": "/cms/assets/seeyou-climb.png"
     },
     {
-      "title": "SeeYou - maps that a soaring pilot needs",
+      "title": "SeeYou - Maps that a soaring pilot needs",
       "subtitle": "Choose between terrain, outdoor or satellite map. Airspace, airports, mountain peaks and passes are included.",
       "image": "/cms/assets/maps.png"
     },
     {
-      "title": "SeeYou - plan your flights",
-      "subtitle": "Our task planner makes it easy to set tasks based on weather forecasts from TopMeteo or Skysight.",
+      "title": "SeeYou - Plan your flights",
+      "subtitle": "Our XC Planner makes it easy to set tasks based on weather forecasts from TopMeteo or Skysight.",
       "image": "/cms/assets/seeyou-weather.png"
     },
     {
-      "title": "SeeYou - analyze your flights",
+      "title": "SeeYou - Analyze your flights",
       "subtitle": "Improve your flying based on facts that refine your intuition.",
       "image": "/cms/assets/seeyou-3d-flight-view.png"
     }

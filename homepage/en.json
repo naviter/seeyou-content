@@ -5,22 +5,22 @@
   "slideshow": [
     {
       "title": "SeeYou - Makes you a better pilot",
-      "subtitle": "Plan your flights using our XC Planner. Execute them with Navigator and analyze them with our flight analytics software, all in one package - SeeYou.",
+      "subtitle": "Plan, navigate, log and analyze flights with SeeYou, a complete software package for glider, paraglider or hang glider pilots.",
       "image": "/cms/assets/seeyou-climb.png"
     },
     {
-      "title": "SeeYou - Maps that a soaring pilot needs",
-      "subtitle": "Choose between terrain, outdoor or satellite map. Airspace, airports, mountain peaks and passes are included.",
+      "title": "SeeYou - Plan your flight",
+      "subtitle": "Prepare for your next flight with SeeYou using our high-resolution maps with all the data a soaring pilot needs: Airspace, Weather and Points of Interest for soaring pilots.",
       "image": "/cms/assets/maps.png"
     },
     {
-      "title": "SeeYou - Plan your flights",
-      "subtitle": "Our XC Planner makes it easy to set tasks based on weather forecasts from TopMeteo or Skysight.",
-      "image": "/cms/assets/seeyou-weather.png"
+      "title": "SeeYou - Navigate while flying",
+      "subtitle": "Use SeeYou Navigator to record your flight and navigate while flying.",
+      "image": "/cms/assets/navigator_in_action.jpg"
     },
     {
-      "title": "SeeYou - Analyze your flights",
-      "subtitle": "Improve your flying based on facts that refine your intuition.",
+      "title": "SeeYou - Share and learn from flights",
+      "subtitle": "You can share your flight right after landing with your friends and use the advanced statistics to improve your skills.",
       "image": "/cms/assets/seeyou-3d-flight-view.png"
     }
   ],
